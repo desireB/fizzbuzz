@@ -27,10 +27,10 @@ docker run -it -p 80:5000 --name fizz fizzbuzz
 ```
 ### Use
 
-# no UI
+- no UI
 ```
 curl http://127.0.0.1:5000/fizzbuzz/4
 ```
 
-# browser
+- browser
 Using your browser go to http://127.0.0.1:5000/fizzbuzz/4
